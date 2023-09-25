@@ -1,0 +1,23 @@
+--- Vehicle Report --- 				Date: 09252023
+
+2019
+	infinity g35	MSRP: $50000.00	List Price: $100000.00
+	chevrolet avalanche	MSRP: $60000.00	List Price: $120000.00
+
+2018
+	acura mdx	MSRP: $45000.00	List Price: $90000.00
+	chrysler pacifica	MSRP: $40000.00	List Price: $80000.00
+	jeep wrangler	MSRP: $55000.00	List Price: $110000.00
+
+2017
+	ford focus	MSRP: $27500.00	List Price: $55000.00
+	chevrolet impala	MSRP: $33000.00	List Price: $66000.00
+	honda accord	MSRP: $28000.00	List Price: $56000.00
+	nissan altima	MSRP: $30000.00	List Price: $60000.00
+
+2012
+	honda civic	MSRP: $30000.00	List Price: $60000.00
+
+--- Grand Total ---
+	MSRP: $398500.00
+	List Price: $797000.00

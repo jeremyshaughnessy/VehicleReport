@@ -1,0 +1,57 @@
+﻿body {
+    text-align: center;
+    background-color: tan;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border: 5px solid #6F4E37;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+    align-content: center;
+    background-color: olivedrab;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input[type="number"] {
+    width: 75%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.headerText {
+    text-align: center;
+}
+
+.subHeaderText {
+    text-align: center;
+}
+
+.csvUpload {
+    width: 75%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.taxRateUpload {
+    text-align: center;
+}
